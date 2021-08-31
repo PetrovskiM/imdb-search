@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Imdb Search</string>
+
+    <!--MOVIE LIST-->
+    <string name="movies_list_hint">Enter your movie name!</string>
+    <string name="movies_list_no_movies">No movies found, try searching above!</string>
+    <string name="movies_list_movie_icon">Movie icon</string>
+    <string name="movies_list_rank">Rank: %s</string>
+    <string name="movies_list_item_image_transition" translatable="false">image_transition</string>
+
+    <!--MOVIE DETAILS-->
+    <string name="movie_details_running_time">Running time: %d</string>
+    <string name="movie_details_error">Something went wrong</string>
+</resources>
